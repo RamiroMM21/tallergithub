@@ -1,2 +1,0 @@
-# tallergithub
-practica del taller
